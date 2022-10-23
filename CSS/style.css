@@ -1,8 +1,17 @@
-
-#Logo_title {
-    text-align: center;
+#Logo_Container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
-#Menu_Nav{
+#Logo_title {
+    width: 300px;
+}
+
+#Menu_Nav {
     text-align: center;
+}
+#Menu_Nav a{
+    margin-inline: 10px;
 }
