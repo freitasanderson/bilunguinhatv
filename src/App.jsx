@@ -22,7 +22,7 @@ export function Nav(){
     <>
       <nav id="Menu_Nav">
           <a href="index.html"><img src={inicio}/></a>
-          <a href="Páginas/canais.html"> <img src={canais}/></a>
+          <a href="Pages/canais.html"> <img src={canais}/></a>
       </nav>
     </>
   )
